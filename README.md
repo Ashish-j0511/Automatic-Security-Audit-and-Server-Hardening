@@ -1,6 +1,6 @@
 # Automatic-Security-Audit-and-Server-Hardening
 This project provides a Bash script designed to automate the security auditing and server hardening process for Linux-based systems.
-# 🔐 Linux Server Security Audit and Hardening Script
+# Linux Server Security Audit and Hardening Script
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ This project provides a **Bash script** to automate both security auditing and s
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - User and Group Audits
 - File and Directory Permission Checks
@@ -28,7 +28,7 @@ This project provides a **Bash script** to automate both security auditing and s
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Linux OS (Debian/Ubuntu/CentOS/etc.)
 - Bash Shell (v4+)
@@ -41,11 +41,12 @@ This project provides a **Bash script** to automate both security auditing and s
 
 1. **Clone the Repository**
 ```bash
-   git clone https://github.com/Ashish-j0511/Automatic-Security-Audit-and-Server-Hardening.git ```
+   git clone https://github.com/Ashish-j0511/Automatic-Security-Audit-and-Server-Hardening.git
 
 ## Make the script executable :
 ```bash
-chmod +x ``` 
+chmod +x security_audit
 
 ## Run the script:
-```./```
+```bash
+./security_audit
