@@ -38,8 +38,7 @@ This project provides a **Bash script** to automate both security auditing and s
 ---
 
 ## 🚀 Getting Started
-
-1. **Clone the Repository**
+**Clone the Repository**
 ```bash
 git clone https://github.com/Ashish-j0511/Automatic-Security-Audit-and-Server-Hardening.git
 
