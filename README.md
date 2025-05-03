@@ -50,7 +50,7 @@ chmod +x security_audit
 ```
 ./security_audit
 ```
-## OUTPUT
-```
+## OUTPUTS
 ![Image](https://github.com/user-attachments/assets/a33c9725-2383-44f8-b118-c33b03af91bd)
-```
+
+![Image](https://github.com/user-attachments/assets/42344a8a-60b7-450a-9643-040fca770403) 
